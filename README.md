@@ -15,7 +15,7 @@ git clone https://github.com/xavier-1-tech/Todo-List-Demo.git && cd todo_app
 
 ##### Create virtualenv and activate
 
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 
 Linux & Mac:
 export FLASK_APP=app.py  
