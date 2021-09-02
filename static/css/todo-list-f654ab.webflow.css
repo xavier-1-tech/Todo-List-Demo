@@ -2,7 +2,7 @@ body {
   font-family: Montserrat, sans-serif;
   color: #333;
   font-size: 1em;
-  line-height: 1em;
+  line-height: 1.6em;
 }
 
 ol {
@@ -41,7 +41,7 @@ li {
 }
 
 .mx-wrapper {
-  max-width: 1400px;
+  max-width: 600px;
   min-width: 500px;
   margin-right: auto;
   margin-left: auto;
